@@ -1,0 +1,30 @@
+.btn-blue {
+	background-color: #AFD5AA;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #F0F2EF;
+	font-family: Roboto, sans-serif;
+}
+
+.btn-blue:hover {
+	background-color: #218380;
+}
+
+
+.pole {
+    flex-basis: 250px;
+    flex-grow: 1;
+    margin: 10px;
+    background-color: #AFD5AA;
+    padding: 15px 20px;
+    border-radius: 4px;
+    color: #F0F2EF;
+    font-family: Roboto, sans-serif;
+    border: 1px solid #98473E;
+    text-align: center;
+    font-weight: bolder
+
+}
+.pole:hover {
+background-color: #218380;
+}

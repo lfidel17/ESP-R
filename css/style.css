@@ -1,0 +1,50 @@
+@import url(href="https://fonts.googleapis.com/css?family=Inria+Serif&display=swap" rel="stylesheet">);
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Inria Serif', serif;
+	font-size: 18px;
+	margin: 0px;
+  background-color: #EEFFD8;
+  color: #218380;
+}
+
+h1, h2, h4 {
+	font-family: 'Inria Serif', serif;
+	font-weight: bold;
+  color: #98473E;
+}
+
+h2 {
+  margin-top: 30px;
+  font-size: 30px;
+ }
+
+h4 {
+  color: #F0F2EF;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	color : #F0F2EF
+}
+h3{
+	text-align: center;
+}
+
+#card-list :{
+	height: 100px;
+}
+
+#pres {
+	border: 1px solid #98473E;
+	padding: 20px;
+	text-align: center
+}
